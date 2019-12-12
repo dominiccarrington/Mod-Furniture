@@ -1,0 +1,16 @@
+[
+{
+  "modid": "furniture",
+  "name": "WNA Furniture Mod",
+  "description": "Wait! Not Another Furniture Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RageGamingPE"],
+  "credits": "Toasted_Smores for the idea!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
